@@ -17,7 +17,7 @@ Pour résumer, cette veille servira à me tenir informée des tendances, évolut
 
 Pour mettre cette veille en place, je vais utiliser plusieurs outils :
 
- - Twitter
+### Twitter
 
     - Lien vers le compte officiel de : - RoR : https://x.com/rails
                                         - du créateur de RoR : https://x.com/dhh
@@ -28,7 +28,7 @@ Pour mettre cette veille en place, je vais utiliser plusieurs outils :
       J'ai choisi Twitter car il regroupe une très grande communauté d'utilisateurs. En s'abonnant aux bons comptes, et cherchant les bons #, on peut avoir un très bon contenu filtré, et centré sur notre sujet, qui est donc RoR. De plus, sur cette plateforme, nous pouvons directement suivre les personnes importantes en lien avec notre sujet (tel que le créateur par exemple), et donc nous sommes sûrs d'avoir des informations vérifiées et pertinentes pour nous.
 
       
- - Feedly
+### Feedly
 
     - Lien vers feedly : https://feedly.com/i/collection/content/user/97db0415-ddd3-46ae-b17e-5eb953c91298/category/1391a6ae-272a-43dd-a120-718a76291cd2
       
@@ -55,7 +55,7 @@ J'ai donc ajouté plusieurs flux RSS à mon feed sur mon compte, les voici :
   - Drifting Ruby (url : https://www.driftingruby.com/). J'ai choisi cette source car il y a des des screencasts avancés sur les fonctionnalités de Ruby on Rails. Un screencast est une vidéo montrant en direct des démonstrations techniques, comme l'utilisation de fonctionnalités dans Ruby on Rails. Suivre des screencasts, comme ceux de Drifting Ruby, permet d’apprendre rapidement à travers des exemples pratiques et visuels. C'est particulièrement utile pour explorer des fonctionnalités avancées et voir comment les appliquer concrètement dans des projets. En recevant ces vidéos via un flux RSS, je reste à jour sur les meilleures pratiques et les nouveautés du framework. 
 
 
- - GitHub
+### GitHub
 
     - Lien du Github officiel de RoR : https://github.com/rails
     - Pourquoi Github ? :
@@ -70,7 +70,7 @@ GitHub est l’endroit où sont publiées les nouvelles versions de Ruby on Rail
 
 GitHub permet de visualiser les forks du projet, qui peuvent être des versions modifiées du framework par d'autres développeurs. Ça me permettra de voir quelles innovations ou améliorations sont testées et parfois adoptées par la communauté.
 
- - StackOverflow
+### StackOverflow
    
   - Lien vers une page StackOverflow, à partir de laquelle on trouve d'autres lien en rapport avec RoR : https://stackoverflow.com/questions/55574/learning-ruby-on-rails
     
