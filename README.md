@@ -19,9 +19,10 @@ Pour mettre cette veille en place, je vais utiliser plusieurs outils :
 
 ### Twitter
 
-    - Lien vers le compte officiel de : - RoR : https://x.com/rails
-                                        - du créateur de RoR : https://x.com/dhh
-                                        - compte qui donne des tutos sur RoR : https://x.com/gorails
+- Lien vers le compte officiel de :
+    - RoR : https://x.com/rails
+    - du créateur de RoR : https://x.com/dhh
+    - compte qui donne des tutos sur RoR : https://x.com/gorails
       
     - Pourquoi Twitter ? :
       
@@ -30,11 +31,11 @@ Pour mettre cette veille en place, je vais utiliser plusieurs outils :
       
 ### Feedly
 
-    - Lien vers feedly : https://feedly.com/i/collection/content/user/97db0415-ddd3-46ae-b17e-5eb953c91298/category/1391a6ae-272a-43dd-a120-718a76291cd2
-      
-    - Pourquoi Feedly ? :
-      
-      Feedly est un agrégateur de flux RSS qui permet de centraliser toutes les sources d'informations en un seul endroit. Il est connu pour :
+- Lien vers feedly : https://feedly.com/i/collection/content/user/97db0415-ddd3-46ae-b17e-5eb953c91298/category/1391a6ae-272a-43dd-a120-718a76291cd2
+  
+- Pourquoi Feedly ? :
+  
+  Feedly est un agrégateur de flux RSS qui permet de centraliser toutes les sources d'informations en un seul endroit. Il est connu pour :
 
 Au lieu de visiter individuellement chaque blog, site de documentation, ou forum, Feedly permet de regrouper tous ces flux en un seul tableau de bord. Ça me permettra d'économiser du temps et de rester organisée, car tu peux suivre en un clin d'œil toutes les nouveautés et articles récents sur Ruby on Rails.
 
@@ -57,10 +58,11 @@ J'ai donc ajouté plusieurs flux RSS à mon feed sur mon compte, les voici :
 
 ### GitHub
 
-    - Lien du Github officiel de RoR : https://github.com/rails
-    - Pourquoi Github ? :
+- Lien du Github officiel de RoR : https://github.com/rails
+  
+- Pourquoi Github ? :
       
-      GitHub est donc une plateforme pour le développement open-source, et Ruby on Rails étant un projet open-source majeur, son dépôt GitHub (Rails GitHub Repository) est un point central pour suivre l'évolution du framework. Voilà pourquoi il est essentiel pour ma veille :
+  GitHub est donc une plateforme pour le développement open-source, et Ruby on Rails étant un projet open-source majeur, son dépôt GitHub (Rails GitHub Repository) est un point central pour suivre l'évolution du framework. Voilà pourquoi il est essentiel pour ma veille :
 
 GitHub me permettra d'accéder aux dernières mises à jour du code source de Ruby on Rails. Ça me permettra de comprendre les changements majeurs, corrections de bugs, et nouvelles fonctionnalités en temps réel. Je pourrais également observer les commits et voir quels aspects du framework sont activement développés ou modifiés.
 
